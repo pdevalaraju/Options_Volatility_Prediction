@@ -125,7 +125,7 @@ Observation:
 ![MV_CNN_1_Day_predictions.png](/resources/images/MV_CNN_5_Day_predictions.PNG)
 
 * CNN MModel Architecture
-![cnn.png](/resources/images/cnn.PNG)
+![cnn.png](/resources/images/cnn.png)
 
 
 Observation: 
